@@ -1,0 +1,23 @@
+
+body {
+    background-color: #b0e6ff;
+    transition: background-color 1s ease;
+}
+
+body img#btn {
+    width: 128px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+body img#btn:hover {
+    cursor: pointer;
+}
+
+body img#town {
+    position: absolute;
+    width: 85%;
+    bottom: 0;
+    right: 0;
+
+}
